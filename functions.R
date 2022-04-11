@@ -1,6 +1,6 @@
 
 
-########################################### Functions - estimation ######################################
+########################################### Functions - estimation #######################################
 
 ## The function coef.fun() returns a drift or a diffusion function
 
